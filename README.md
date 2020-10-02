@@ -20,6 +20,7 @@ If override is set to False it will append the records to existing collection.
 
 - Import CSV file to MongoDb using commandline 
  python import_csv_to_mongo.py <File name>.csv
+ 
  E.g:  python import_csv_to_mongo.py Groceries_dataset.csv
  
 # Note
